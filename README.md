@@ -11,4 +11,4 @@ This project contains a document folder (/docs) that includes the full scope (sc
 
 [Repository Page](https://github.com/jonesee1/rjfinalproject)
 
-[Documents](https://jonesee1.github.io/rjfinalproject/docs)
+[Documents](https://github.com/jonesee1/rjfinalproject/tree/main/docs)
