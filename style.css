@@ -12,7 +12,7 @@ body {
     padding: 0;
 }
 
-h1 {
+.title {
     background-color: #CCD5AE;
     font-family: Times New Roman, serif;
     color: #000000;
@@ -21,20 +21,20 @@ h1 {
     margin: 16px auto;
 }
 
-h2 {
+.subtitle {
     background-color: #D4A373;
     color: #000000;
-    width: fit-content;
+    width: stretch;
     padding: 10px;
     border: 2px solid #333;
     margin: 16px;
 }
 
-p, ul {
+.content {
     background-color: #E9EDC9;
     font-family: Helvetica, Arial, sans-serif;
     color: #2b0707;
-    width: fit-content;
+    width: stretch;
     padding-left: 20px;
     border: 2px solid #333;
     margin: 16px;
@@ -44,13 +44,4 @@ p, ul {
 a {
     margin: 16px;
     text-decoration: underline;
-}
-
-div {
-    width:fit-content;
-    height:fit-content;
-    background-color:#E9EDC9;
-    border: 2px solid #333;
-    padding: 10px;
-    margin: 16px;
 }
