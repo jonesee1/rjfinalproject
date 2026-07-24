@@ -24,7 +24,7 @@ body {
 .subtitle {
     background-color: #D4A373;
     color: #000000;
-    width: stretch;
+    width: 100%;
     padding: 10px;
     border: 2px solid #333;
     margin: 16px;
